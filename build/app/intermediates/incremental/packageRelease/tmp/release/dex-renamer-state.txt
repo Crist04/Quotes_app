@@ -1,0 +1,4 @@
+#Sat Oct 08 21:33:32 IST 2022
+base.0=C\:\\Users\\pansh\\Downloads\\flutter_quotes_app-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
